@@ -33,4 +33,4 @@ Run consumer:
 ./app.php consume <queue_name>
 ```
 
-Note: <queue_name> must be defined in config!
+Note: \<queue_name\> must be defined in config!
