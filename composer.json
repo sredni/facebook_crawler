@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-0": {
+      "Sredni\\": "src/"
+    }
+  },
+  "require": {
+    "facebook/php-sdk-v4": "4.0.23"
+  }
+}
