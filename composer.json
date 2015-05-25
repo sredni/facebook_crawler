@@ -5,6 +5,7 @@
     }
   },
   "require": {
-    "facebook/php-sdk-v4": "4.0.23"
+    "facebook/php-sdk-v4": "4.0.23",
+    "videlalvaro/php-amqplib": "v2.1.0"
   }
 }
